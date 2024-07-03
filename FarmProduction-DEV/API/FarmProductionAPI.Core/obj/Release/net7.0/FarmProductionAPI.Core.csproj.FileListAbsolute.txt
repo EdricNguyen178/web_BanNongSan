@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\bin\Release\net7.0\FarmProductionAPI.Core.deps.json
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\bin\Release\net7.0\FarmProductionAPI.Core.dll
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\bin\Release\net7.0\FarmProductionAPI.Core.pdb
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\bin\Release\net7.0\FarmProductionAPI.Domain.dll
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\bin\Release\net7.0\FarmProductionAPI.Domain.pdb
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\FarmProductionAPI.Core.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\FarmProductionAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\FarmProductionAPI.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\FarmProductionAPI.Core.AssemblyInfo.cs
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\FarmProductionAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\FarmProductionAPI.Core.csproj.CopyComplete
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\FarmProductionAPI.Core.dll
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\refint\FarmProductionAPI.Core.dll
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\FarmProductionAPI.Core.pdb
+C:\Users\ACER\Desktop\FarmProduction-DEV\API\FarmProductionAPI.Core\obj\Release\net7.0\ref\FarmProductionAPI.Core.dll

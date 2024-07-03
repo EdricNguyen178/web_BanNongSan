@@ -1,0 +1,7 @@
+
+  {
+    "production": false,
+    "dev": true,
+    "API": "http://192.168.2.70:82/api/",
+    "URL_UPLOAD": "http://192.168.2.70:82/api/Upload/GetImage?imgName="
+  }
